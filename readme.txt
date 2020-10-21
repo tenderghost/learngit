@@ -1,3 +1,3 @@
 Git is a version control system
 Git is free software.
-I should learn git scm today.
+git is a free software distributed under the GPL.
