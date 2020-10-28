@@ -1,0 +1,1 @@
+This will create a new vulcan file for new class.
